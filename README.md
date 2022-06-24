@@ -1,6 +1,6 @@
 - 👋 Hola, soy Marco Bardales Rodriguez
 - 💻 Soy estudiante de Ingenieria de Software
-- 🌱 Y actualmente estoy aprendiendo frontend y backend
+- 📖 Y actualmente estoy tratando de aprender frontend  y backend  (:\\/)
 
 <!---
 MarcoBardalesRodriguez/MarcoBardalesRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
